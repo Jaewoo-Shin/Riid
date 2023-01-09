@@ -34,5 +34,5 @@ Classification을 위한 간단하지만 성능이 좋은 ML 모델로써 ensemb
 
 # 간단한 모델 서빙 서버 아키텍쳐 다이어그램
 
-[architecture](./architecture.png)
+![architecture](./architecture.png)
 
